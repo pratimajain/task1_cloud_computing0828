@@ -41,16 +41,25 @@ more locally to consumers, thus improving access speed for downloading the conte
 *Commands of terraform to run the code:-
 
 terraform init. :it is necessary to download the required plugins.
+
 terraform validate : To check the validation of our code.
+
 terraform apply -auto-aprove : To run the terraform code.
 
 #cd Desktop
+
 #cd cd tera
+
 #cd mytask
+
 #notepad task.tf
+
 #terraform init
+
 #terraform validate
+
 #terraform apply -auto-approve
+
 
 *CONCLUSION:
 
