@@ -12,6 +12,7 @@ cloud_computing task1
 8. Create a Cloudfront using s3 bucket(which contains images) and use the Cloudfront URL to update in code in /var/www/html
 
 * Prerequisites:-
+
 Account on aws
 To make new account/login :- https://aws.amazon.com/console/
 
