@@ -25,6 +25,7 @@ Terraform download
 To download:- https://releases.hashicorp.com/terraform/0.12.26/terraform_0.12.26_windows_amd64.zip
 
 * Terms Used
+
 Instance:-  launched Amazon Linux 2 AMI (HVM), SSD Volume Type 64 bit used t2 micro which has 1 CPU power and 8 GB Ebs storage and memory of 1 GB provide a tag for it.
 
 S3 bucket:- S3 bucket is used to store the data that can be audio, video, documents, etc
